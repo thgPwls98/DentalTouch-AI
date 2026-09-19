@@ -9,7 +9,7 @@ export const APP_LINKS: AppLinks = {
   patientUrl: 'https://dt-kiosk.vercel.app/',
 
   // [ DentalTouch - 진료/접수 관리 시스템(의료진용) 대시보드 입장 ]
-  staffUrl: 'https://dt-portal.vercel.app/',
+  staffUrl: 'https://dental-touch.vercel.app/',
 
   // 링크 클릭 시 새 탭으로 열기
   openInNewTab: true,
