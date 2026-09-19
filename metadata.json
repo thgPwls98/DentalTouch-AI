@@ -1,0 +1,6 @@
+{
+  "name": "DentalTouch AI",
+  "description": "AI 기반 스마트 치과 접수 & 트리아지 시스템 통합 랜딩 페이지",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
